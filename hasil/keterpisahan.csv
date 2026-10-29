@@ -1,0 +1,5 @@
+R,P,method,dimensi,akurasi_1NN_LOO,rasio_antar_dalam
+1,8,default,256,0.7045,1.2775
+1,8,uniform,10,0.5379,1.2211
+2,16,uniform,18,0.5152,1.4355
+3,24,uniform,26,0.5606,1.5624

@@ -1,0 +1,5 @@
+No,R,P,Method,Dimensi,k,Akurasi_split
+1,1,8,default,256,3,0.875
+2,1,8,uniform,10,3,0.8125
+3,2,16,uniform,18,3,0.875
+4,3,24,uniform,26,3,1.0

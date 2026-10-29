@@ -1,0 +1,13 @@
+# cache Python
+__pycache__/
+*.py[cod]
+
+# folder kerja agen (bukan bahan praktikum)
+folder_dump/
+
+# dataset sintetis hasil buat_data_demo.py
+Dataset_sintetis/
+
+# virtualenv
+.venv/
+venv/
